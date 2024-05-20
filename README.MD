@@ -8,6 +8,8 @@
 
 
 
+________________________________
+from jest in main:
 2. Create a package.json file
 
 - Install: npm init
