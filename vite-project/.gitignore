@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+coverage/
+
+>>>>>>> vitest3
 # Logs
 logs
 *.log
