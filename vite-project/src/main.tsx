@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import Button from './button';  // Adjust the path as necessary
+import {Button} from './button';  // Adjust the path as necessary
 import './index.css';
 
 const handleClick = () => {
