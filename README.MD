@@ -1,7 +1,7 @@
 # Testa JEST (Vitest finns i branchen vitest)
 
 
-1. npm install - -save-dev jest
+1. npm install - -save-dev jest (måste installeras manuellt)
 2. Create a package.json file
 
 - Install: npm init
